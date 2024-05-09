@@ -6,7 +6,6 @@ A simple yet functional money-tracking web application with basic user CRUD and 
 
 ![Frontend Image](https://github.com/Bensonlmx/MERN-FullStack-MoneyApp/blob/main/Screenshot%202021-01-11%20at%205.26.42%20PM.png)
 ![Frontend Image2](https://github.com/Bensonlmx/MERN-FullStack-MoneyApp/blob/main/Screenshot%202021-01-11%20at%208.26.39%20PM.png) 
-![erdiagram](https://github.com/Bensonlmx/mern-stack-moneyapp/blob/main/Screenshot%202021-01-17%20at%2012.10.19%20AM.png)
 #### What you need to run this code
 1. React.js
 2. Node.js
